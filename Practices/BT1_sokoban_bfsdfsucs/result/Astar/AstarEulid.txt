@@ -1,0 +1,79 @@
+Runtime of astar: 0.030 seconds.
+Số nút được mở: 367
+['r', 'U', 'R', 'd', 'r', 'U', 'U', 'l', 'L', 'd', 'l', 'U']
+12
+
+Runtime of astar: 0.005 seconds.
+Số nút được mở: 81
+['U', 'U', 'd', 'd', 'r', 'r', 'r', 'U', 'U']
+9
+
+Runtime of astar: 0.010 seconds.
+Số nút được mở: 91
+['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R']
+15
+
+Runtime of astar: 0.004 seconds.
+Số nút được mở: 52
+['l', 'l', 'l', 'd', 'R', 'R', 'R']
+7
+
+Runtime of astar: 0.050 seconds.
+Số nút được mở: 478
+['u', 'l', 'u', 'R', 'R', 'd', 'r', 'U', 'U', 'U', 'd', 'l', 'L', 'U', 'd', 'L', 'd', 'l', 'U', 'U']
+20
+
+Runtime of astar: 0.013 seconds.
+Số nút được mở: 505
+['d', 'l', 'l', 'u', 'R', 'd', 'r', 'U', 'U', 'U', 'd', 'd', 'r', 'r', 'u', 'u', 'u', 'l', 'L']
+19
+
+Runtime of astar: 0.098 seconds.
+Số nút được mở: 1904
+['L', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'L', 'd', 'l', 'U', 'U', 'U', 'U', 'l', 'u', 'R']
+21
+
+Runtime of astar: 0.216 seconds.
+Số nút được mở: 5170
+['l', 'l', 'D', 'D', 'D', 'D', 'D', 'D', 'l', 'd', 'd', 'd', 'r', 'r', 'u', 'u', 'L', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'r', 'r', 'd', 'L', 'u', 'l', 'D', 'D', 'D', 'D', 'D', 'D', 'l', 'l', 'l', 'd', 'd', 'r', 'r', 'U', 'd', 'l', 'l', 'u', 'u', 'r', 'R', 'd', 'd', 'd', 'r', 'r', 'u', 'u', 'L', 'U', 'U', 'U', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'd', 'd', 'd', 'r', 'd', 'd', 'l', 'l', 'u', 'U', 'd', 'l', 'l', 'u', 'u', 'r', 'R', 'd', 'r', 'U', 'U', 'U', 'U', 'U', 'U']
+97
+
+Runtime of astar: 0.008 seconds.
+Số nút được mở: 61
+['d', 'l', 'U', 'd', 'l', 'l', 'U', 'R']
+8
+
+Runtime of astar: 0.016 seconds.
+Số nút được mở: 458
+['d', 'l', 'U', 'r', 'r', 'r', 'd', 'L', 'u', 'l', 'l', 'd', 'd', 'r', 'U', 'l', 'u', 'R', 'u', 'u', 'l', 'D', 'r', 'd', 'd', 'r', 'r', 'u', 'L', 'd', 'l', 'U', 'U']
+33
+
+Runtime of astar: 0.017 seconds.
+Số nút được mở: 627
+['r', 'D', 'l', 'd', 'd', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'l', 'U', 'd', 'r', 'r', 'u', 'u', 'l', 'u', 'l', 'l', 'D', 'R', 'd', 'd', 'l', 'U']
+34
+
+Runtime of astar: 0.049 seconds.
+Số nút được mở: 1368
+['r', 'r', 'D', 'u', 'l', 'l', 'd', 'R', 'R', 'u', 'r', 'D', 'r', 'd', 'd', 'l', 'l', 'U', 'R', 'u', 'u', 'l', 'D']
+23
+
+Runtime of astar: 0.145 seconds.
+Số nút được mở: 4233
+['d', 'r', 'r', 'd', 'r', 'r', 'u', 'L', 'L', 'u', 'l', 'l', 'd', 'R', 'u', 'r', 'u', 'r', 'D', 'D', 'r', 'd', 'd', 'l', 'l', 'u', 'U', 'r', 'r', 'd', 'L']
+31
+
+Runtime of astar: 1.127 seconds.
+Số nút được mở: 20896
+['u', 'l', 'l', 'D', 'L', 'd', 'R', 'u', 'u', 'r', 'r', 'd', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'U', 'r', 'u', 'L']
+23
+
+Runtime of astar: 0.309 seconds.
+Số nút được mở: 5546
+['r', 'd', 'd', 'L', 'r', 'u', 'u', 'l', 'D', 'l', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'd', 'l', 'l', 'u', 'R', 'u', 'R', 'l', 'd', 'd', 'r', 'U', 'r', 'U', 'U', 'U', 'l', 'u', 'R', 'R', 'R', 'd', 'L', 'u', 'l', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'd', 'l', 'l', 'u', 'R', 'u', 'R', 'l', 'd', 'd', 'r', 'U', 'r', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'l', 'l', 'u', 'R', 'd', 'r', 'U', 'U', 'U', 'r', 'r', 'u', 'u', 'l', 'D', 'r', 'd', 'L', 'u', 'L', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'u', 'l', 'D', 'r', 'd', 'L']
+105
+
+Runtime of astar: 0.409 seconds.
+Số nút được mở: 3858
+['R', 'u', 'r', 'r', 'd', 'L', 'r', 'd', 'd', 'd', 'l', 'D', 'R', 'u', 'u', 'u', 'u', 'l', 'L', 'L', 'r', 'd', 'R', 'D', 'r', 'd', 'd', 'l', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R']
+36
